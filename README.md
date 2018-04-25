@@ -3,7 +3,7 @@ Chat Server and Chat Client
 
 The final goal of this project is to test a message server and client and document the tests performed. The chat client and server has been decided to provide four basic functionalities:
 
--connection to a chat server
+- connection to a chat server
 2- message sending function that submits text message to the server
 3- a message receiving function that receives message from the chat server
 4- a listing of users showing the names of users which are currently connected to the server. 
